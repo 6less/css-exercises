@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+p {
+    background-color: rgb(236, 118, 118);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#blue-text{
+    color: blue;
+    font-size: 36px;
+}
+
+.bigger-font{
+    font-size: 24px;
+}
+
+#green-bg{
+    background-color: rgb(134, 245, 106);
+    font-weight: bold;
+}
+
